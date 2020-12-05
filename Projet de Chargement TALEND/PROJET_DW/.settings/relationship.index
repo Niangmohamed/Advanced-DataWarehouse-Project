@@ -1,0 +1,112 @@
+[ {
+  "baseItem" : {
+    "id" : "_heyAIDx1Eem3B8i_e7MB8Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_l8D1kDzqEem3B8i_e7MB8Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - calcul_stock",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - extract_date_cmd",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - extract_date_livraison",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - extract_date_stock",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - extract_date_versement",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - partage_commande",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - versement_restant",
+    "version" : "Latest",
+    "type" : "query"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - fournisseurs",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_kCongDx2Eem3B8i_e7MB8Q - versement",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l8D1kDzqEem3B8i_e7MB8Q - FAIT_LIVRAISON",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l8D1kDzqEem3B8i_e7MB8Q - FAIT_PART_CLIENT_COMMANDE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l8D1kDzqEem3B8i_e7MB8Q - FAIT_STOCK",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l8D1kDzqEem3B8i_e7MB8Q - FAIT_VERSEMENT",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l8D1kDzqEem3B8i_e7MB8Q - FAIT_VERSEMENT_RESTANT",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
